@@ -1,4 +1,4 @@
-## KIM HYEON WOO ⌨
+## Kim HyeonWoo ⌨
 
 <br />
 
@@ -6,7 +6,7 @@
 
 <br />
 
-## TECH ⚙️
+## Tech Stack ⚙️
 
 <table>
   <tr>
