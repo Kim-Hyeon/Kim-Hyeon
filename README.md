@@ -1,11 +1,5 @@
 ## Kim HyeonWoo ⌨
 
-<br />
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=FirstFlush)](https://solved.ac/FirstFlush/)
-
-<br />
-
 ## Tech Stack ⚙️
 
 <table>
