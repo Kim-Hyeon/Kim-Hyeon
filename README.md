@@ -1,5 +1,3 @@
-## Kim HyeonWoo ⌨
-
 ## Tech Stack ⚙️
 
 <table>
